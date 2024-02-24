@@ -1,0 +1,12 @@
+# Node artifact files
+node_modules/
+dist/
+
+# parcel files
+.parcel-cache
+
+package.json
+package-lock.json
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
